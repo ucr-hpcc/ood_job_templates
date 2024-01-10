@@ -1,0 +1,4 @@
+name: Default Slurm Script
+host: hpcc
+script: sbatch.sh
+notes: A default template

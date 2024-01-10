@@ -1,0 +1,4 @@
+name: Basic R Script
+host: hpcc
+script: sbatch.sh
+notes: A basic R script
