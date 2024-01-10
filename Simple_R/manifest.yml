@@ -1,4 +1,4 @@
-name: Basic R Script
+name: Simple R Script
 host: hpcc
 script: sbatch.sh
-notes: A basic R script
+notes: A very simple R script that can be modified

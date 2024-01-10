@@ -1,0 +1,4 @@
+name: Simple Python Script
+host: hpcc
+script: sbatch.sh
+notes: A simple Python script that can be modified
