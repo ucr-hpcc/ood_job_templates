@@ -1,0 +1,5 @@
+name: Parallel MPI
+host: hpcc
+script: sbatch.sh
+notes: A simple demo MPI program
+
