@@ -1,0 +1,4 @@
+name: Simple Slurm Array Job
+host: hpcc
+script: sbatch.sh
+notes: A simple Slurm Array job to demonstate using array variables
