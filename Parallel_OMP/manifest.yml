@@ -1,0 +1,4 @@
+name: Parallel OMP
+host: hpcc
+script: sbatch.sh
+notes: A simple demo OpenMP program
